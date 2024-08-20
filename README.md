@@ -2,11 +2,11 @@
 
 This is a simple and responsive Todo List application built with React. It allows users to add, edit, and delete tasks. The application also persists data in the browser's local storage, so your tasks remain even after refreshing the page.
 
-#Demo
+# Demo
 
-You can view a live demo of the Todo List app here : 
+You can view a live demo of the Todo List app here : https://todoo-flow.netlify.app/
 
-#Features
+# Features
 
 . Add Todos: Add new tasks to your todo list.
 . Edit Todos: Edit existing tasks directly.
@@ -14,33 +14,33 @@ You can view a live demo of the Todo List app here :
 . Persistent Data: Todos are saved in local storage, so they persist even after refreshing the page.
 . Responsive Design: The app is fully responsive and works well on all device sizes.
 
-#Installation
+# Installation
 
 To run this project locally, follow these steps:
 
-  #Clone the repository:
+  # Clone the repository:
       git clone https://github.com/yourusername/todo-list-app.git
       cd todo-list-app
     
-  #Install dependencies:
+  # Install dependencies:
       npm install
 
-  #Run the development server:
+  # Run the development server
       npm start
 This will start the app in development mode. Open http://localhost:3000 to view it in the browser.
 
-#Usage
+# Usage
 
-  #Adding a Todo:
+  # Adding a Todo:
     Type your task in the input field.
     Press Enter or click the Add button to add the task to your list.
   
-  #Editing a Todo:
+  # Editing a Todo:
     Click the pencil icon next to the task you want to edit.
     The task will be moved to the input field for editing.
     Make your changes and press Enter or click Add to update the task.
   
-  #Deleting a Todo:
+  # Deleting a Todo:
     Click the trash icon next to the task you want to delete.
 
 
